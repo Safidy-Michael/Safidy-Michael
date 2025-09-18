@@ -9,7 +9,7 @@ I enjoy working with both **front-end** and **back-end**, and I love tackling ne
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nestjs,python,php,symfony,aws,docker,kubernetes,githubactions,gitlab,jenkins,postgres,mysql,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,nestjs,python,php,symfony,aws,docker,kubernetes,githubactions,gitlab,jenkins,postgres,mysql,mongodb&perline=9" />
 </p>
 
 ---
