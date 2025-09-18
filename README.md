@@ -32,7 +32,8 @@ I’m looking to collaborate on:
 
 ## 📫 Reach Me  
 - Email: **hei.safidy.7@gmail.com**  
-- LinkedIn: [Your LinkedIn Profile Here]  
+- LinkedIn: [Safidy-Randriantseheno](https://www.linkedin.com/in/safidy-randriantseheno-a21787278/)
+
 - GitHub: [@Safidy-Michael](https://github.com/Safidy-Michael)  
 
 ---
